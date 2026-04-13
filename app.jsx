@@ -1,5 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import {
+import React from "react";
+import ReactDOM from "react-dom/client";
   Home, Navigation, AlertTriangle, Grid, Settings,
   Zap, Clock, Users, Wifi, WifiOff, Bell, MapPin,
   Truck, RefreshCw, CheckCircle, XCircle, ChevronRight,
